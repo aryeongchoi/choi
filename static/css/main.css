@@ -1,0 +1,61 @@
+
+h1{
+    color: green;
+    font-size: 50px;
+}
+
+a:link {
+    color: orange;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-size: 50px;
+}
+
+.b1{
+    background-color: red;
+    color: black;
+}
+h3{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.img1{
+    width: 450px;
+    height: 300px;
+    border: solid 5px red;
+    border-radius: 50px;
+}
+.img2{
+    width: 450px;
+    height: 300px;
+    border: dashed 5px yellow;
+    border-radius: 50px;
+
+}
+.img3{
+    width: 450px;
+    height: 300px;
+    border: double 5px green;
+    border-radius: 50px;
+}
+.b2{
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+    border: solid 3px green;
+    padding: 10px;
+    border-radius: 50px;
+}
